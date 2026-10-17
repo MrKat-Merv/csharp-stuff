@@ -1,0 +1,23 @@
+# .NET build output
+bin/
+obj/
+publish/
+*.user
+.vs/
+TestResults/
+
+# Generated posters
+*.svg
+*.png
+!docs/*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
